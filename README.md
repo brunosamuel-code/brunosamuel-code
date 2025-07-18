@@ -58,7 +58,7 @@
 | Sandbox security incidents  | **Zero breaches** |
 | Chaos recovery rate         | **98.4% success** from injections |
 | Fault recovery time         | **<12s per DAG run** |
-| Proven ROI across stack     | **>$25M+/year** savings (ops + infra) |
+| Proven ROI across stack     | **>$150M+/year** savings (ops + infra) |
 
 ---
 
