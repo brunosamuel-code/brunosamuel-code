@@ -63,7 +63,7 @@
 
 ---
 
-## 🌐 Scale: 1-to-Billion+
+## 🌐 Scale 1-to-Billion+
 
 Designed, coded, and validated to be a **engineering vertical stack** built end-to-end. 
 
