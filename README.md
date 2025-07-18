@@ -64,7 +64,7 @@
 
 ## 🌐 Scale: 1-to-Billion+
 
-Designed, coded, and validated to be a **engineering vertical stack** built end-to-end. Crafted to operate, scale, and recover at institutional reliability across orgs that are $10B+ operations.
+Designed, coded, and validated to be a **engineering vertical stack** built end-to-end. Crafted to operate, scale, and recover at institutional reliability across orgs that are $1B+ engineering and technology operations.
 
 ---
 
