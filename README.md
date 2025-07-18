@@ -6,7 +6,7 @@
 ## 🔩 System Portfolio — 20 Independent, Production-Ready Solutions
 
 > _Each repo is a vertical problem-solver architecture template: fully scoped, benchmarked, and post-live validated._
-> -The implemented algorithm in the repo is a general case and simplified format to help anyone understand some of the core capabilities that are fundamental for scaling 
+> _The implemented algorithm in the repo is a general case and simplified format to help anyone understand some of the core capabilities that are fundamental for scaling._
 
 ## ⚙️ Core Runtime & Scheduling
 
