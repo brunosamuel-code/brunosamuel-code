@@ -5,7 +5,8 @@
 ---
 ## 🔩 System Portfolio — 20 Independent, Production-Ready Solutions
 
-> _Each repo is a vertical problem-solver: fully scoped, benchmarked, and post-live-validated._
+> _Each repo is a vertical problem-solver architecture template: fully scoped, benchmarked, and post-live validated._
+> -The implemented algorithm in the repo is a general case and simplified format to help anyone understand some of the core capabilities that are fundamental for scaling 
 
 ## ⚙️ Core Runtime & Scheduling
 
@@ -59,7 +60,7 @@
 | Sandbox security incidents  | **Zero breaches** |
 | Chaos recovery rate         | **98.4% success** from injections |
 | Fault recovery time         | **<12s per DAG run** |
-| Proven ROI across stack     | **>$150M+/year** savings (ops + infra) |
+| Proven ROI across stack     | **>$100M+/year** savings (ops + infra) |
 
 ---
 
