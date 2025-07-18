@@ -1,6 +1,6 @@
 # Bruno Samuel
 
-**🚧 Building systems that run AI like global infrastructure, not probabilistic magic.**
+**🚧 Running AI and Software as Industrial-Grade Infrastructure, Not Experiments**
 
 ---
 ## 🔩 System Portfolio — 20 Independent, Production-Ready Solutions
