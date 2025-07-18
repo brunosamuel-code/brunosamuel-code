@@ -5,48 +5,49 @@
 ---
 ## 🔩 System Portfolio — 20 Independent, Production-Ready Solutions
 
-> _Each repo is a vertical problem-solver: fully scoped, benchmarked, and live-ready._
+> _Each repo is a vertical problem-solver: fully scoped, benchmarked, and post-live-validated._
 
-### ⚙️ Core Runtime & Scheduling
+## ⚙️ Core Runtime & Scheduling
 
-1. **[blzr-control-plane-rs](https://github.com/brunosamuel-code/blzr-control-plane-rs)** – Rust-based DAG orchestrator; 10K tasks/sec with deadlock-free consistency  
-2. **[blzr-task-validator-rs](https://github.com/brunosamuel-code/blzr-task-validator-rs)** – Input vetting with semantic threat detection  
-3. **[blzr-chaos-lab-py](https://github.com/brunosamuel-code/blzr-chaos-lab-py)** – Infrastructure fault-injection & recovery harness
+1. **[blzr-control-plane](https://github.com/brunosamuel-code/blzr-control-plane)** – High-performance DAG orchestrator; 10K+ tasks/sec with deadlock-free guarantees  
+2. **[blzr-task-validator](https://github.com/brunosamuel-code/blzr-task-validator)** – Semantic input vetting with multi-layered threat detection  
+3. **[blzr-chaos-lab](https://github.com/brunosamuel-code/blzr-chaos-lab)** – Fault injection and recovery harness for infra durability testing  
 
-### 🔐 Security & Trust Infrastructure
+## 🔐 Security & Trust Infrastructure
 
-4. **[blzr-policy-governor-go](https://github.com/brunosamuel-code/blzr-policy-governor-go)** – Policy-as-code runtime engine with audit streaming  
-5. **[blzr-agent-sandbox-rs](https://github.com/brunosamuel-code/blzr-agent-sandbox-rs)** – Zero-trust sandboxed agent execution  
-6. **[blzr-prompt-ledger-py](https://github.com/brunosamuel-code/blzr-prompt-ledger-py)** – Immutable, Git-like prompt versioning + rollback
+4. **[blzr-policy-governor](https://github.com/brunosamuel-code/blzr-policy-governor)** – Real-time policy-as-code enforcement with immutable audit streaming  
+5. **[blzr-agent-sandbox](https://github.com/brunosamuel-code/blzr-agent-sandbox)** – Secure, zero-trust execution for autonomous agents  
+6. **[blzr-prompt-ledger](https://github.com/brunosamuel-code/blzr-prompt-ledger)** – Git-style prompt versioning and rollback with audit trail integrity  
 
-### 📊 Cost, Evaluation & Self-Optimization
+## 📊 Cost Intelligence, Evaluation & Self-Optimization
 
-7. **[blzr-token-tracker-py](https://github.com/brunosamuel-code/blzr-token-tracker-py)** – Real-time token cost forecasting with ML-driven predictions (~95% accuracy)  
-8. **[blzr-eval-harness-py](https://github.com/brunosamuel-code/blzr-eval-harness-py)** – Benchmarks: MMLU, GSM8K, TruthfulQA; regression tracking  
-9. **[blzr-self-reflect-py](https://github.com/brunosamuel-code/blzr-self-reflect-py)** – Online agent self-scoring loop with automated prompt refinement  
-10. **[blzr-canary-coordinator-py](https://github.com/brunosamuel-code/blzr-canary-coordinator-py)** – Bayesian risk-managed rollout with automatic rollback rules
+7. **[blzr-token-tracker](https://github.com/brunosamuel-code/blzr-token-tracker)** – Token usage forecasting with real-time ML-based optimization  
+8. **[blzr-eval-harness](https://github.com/brunosamuel-code/blzr-eval-harness)** – Benchmarking framework (MMLU, GSM8K, TruthfulQA) with longitudinal regressions  
+9. **[blzr-self-reflect](https://github.com/brunosamuel-code/blzr-self-reflect)** – Self-evaluation feedback loop for prompt and behavior refinement  
+10. **[blzr-canary-coordinator](https://github.com/brunosamuel-code/blzr-canary-coordinator)** – Bayesian rollout and rollback controller with deployment risk modeling  
 
-### 🌐 Edge AI Inference Systems
+## 🌐 Edge AI Inference Systems
 
-11. **[blzr-edge-infer-rs](https://github.com/brunosamuel-code/blzr-edge-infer-rs)** – Secure edge model runtime with OTA, thermal governance, and hardware adaptation  
-12. **[blzr-model-gateway-rs](https://github.com/brunosamuel-code/blzr-model-gateway-rs)** – Inference gateway with traffic splitting & response caching  
-13. **[blzr-model-lifecycle-go](https://github.com/brunosamuel-code/blzr-model-lifecycle-go)** – Model versioning, health checks, and GitOps-based deployment pipeline
+11. **[blzr-edge-infer](https://github.com/brunosamuel-code/blzr-edge-infer)** – Edge runtime for model inference with OTA updates and thermal/power management  
+12. **[blzr-model-gateway](https://github.com/brunosamuel-code/blzr-model-gateway)** – Inference gateway with traffic shaping, response caching, and fallback logic  
+13. **[blzr-model-lifecycle](https://github.com/brunosamuel-code/blzr-model-lifecycle)** – End-to-end model versioning, health checks, and GitOps integration  
 
-### ☁️ Privacy, Compliance & Data Governance
+## ☁️ Privacy, Compliance & Data Governance
 
-14. **[blzr-privacy-engine-go](https://github.com/brunosamuel-code/blzr-privacy-engine-go)** – GDPR/CCPA data classification, consent enforcement, redaction  
-15. **[blzr-data-residency-go](https://github.com/brunosamuel-code/blzr-data-residency-go)** – Geo-routing, encryption key handling, cross-border policy
+14. **[blzr-privacy-engine](https://github.com/brunosamuel-code/blzr-privacy-engine)** – Data classification, redaction, and consent enforcement (GDPR, CCPA compliant)  
+15. **[blzr-data-residency](https://github.com/brunosamuel-code/blzr-data-residency)** – Cross-border policy management with geo-routing and encryption control  
 
-### 🔍 Observability & Resilience
+## 🔍 Observability & Resilience
 
-16. **[blzr-observer-rs](https://github.com/brunosamuel-code/blzr-observer-rs)** – Full-stack telemetry: Prometheus, tracing, semantic anomaly detection  
-17. **[blzr-disaster-recovery-rs](https://github.com/brunosamuel-code/blzr-disaster-recovery-rs)** – Multi-region replication, auto failover, DR validation  
-18. **[blzr-token-cost-go](https://github.com/brunosamuel-code/blzr-token-cost-go)** – ML-driven live budget throttling service
+16. **[blzr-observer](https://github.com/brunosamuel-code/blzr-observer)** – Semantic observability stack with tracing, telemetry, and anomaly detection  
+17. **[blzr-disaster-recovery](https://github.com/brunosamuel-code/blzr-disaster-recovery)** – Multi-region replication, failover automation, and DR compliance validator  
+18. **[blzr-token-cost](https://github.com/brunosamuel-code/blzr-token-cost)** – Real-time budget guardrails using predictive throttling and cost modeling  
 
-### 🔬 Retrieval & RAG Optimization
+## 🔬 Retrieval Augmentation & RAG Optimization
 
-19. **[blzr-hybrid-index-py](https://github.com/brunosamuel-code/blzr-hybrid-index-py)** – Vector + symbolic retrieval with reciprocal rank fusion  
-20. **[blzr-rag-cache-go](https://github.com/brunosamuel-code/blzr-rag-cache-go)** – Semantic-aware retrieval cache with drift detection and proactive watering
+19. **[blzr-hybrid-index](https://github.com/brunosamuel-code/blzr-hybrid-index)** – Symbolic + vector fusion retrieval with reciprocal rank aggregation  
+20. **[blzr-rag-cache](https://github.com/brunosamuel-code/blzr-rag-cache)** – Semantic-aware caching with drift detection, prewarming, and anti-hallucination logic  
+
 
 ---
 
@@ -64,7 +65,9 @@
 
 ## 🌐 Scale: 1-to-Billion+
 
-Designed, coded, and validated to be a **engineering vertical stack** built end-to-end. Crafted to operate, scale, and recover at institutional reliability across orgs that are $1B+ engineering and technology operations.
+Designed, coded, and validated to be a **engineering vertical stack** built end-to-end. 
+
+Crafted to operate, scale, and recover at institutional reliability across orgs that are $1B+ engineering and technology operations.
 
 ---
 
